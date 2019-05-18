@@ -30,6 +30,10 @@
   * Logistic Regression on imdb for sentiment
     * BOW - 1-gram
     * 2-gram?
+  * Word2Vec
+    * Data
+    * SkipGram w/ Torch
+    * Visualization
   * Classification by Neural Network
   * Language modelling by MLP
   * Sequence generation/tagging by RNN
