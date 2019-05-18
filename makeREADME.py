@@ -7,7 +7,7 @@ out.write('* files starting with capitalized letters are sample codes for respec
 out.write('# TOC\n')
 
 for fi,fn in enumerate(sorted(glob.glob('*.ipynb'))):
-    out.write('## {}\n'.format(fn))
+    out.write('## <a href="https://github.com/hoihui/pkgs/blob/master/{f}">{f}</a>\n'.format(f=fn))
     with open(fn) as f:
         text = f.read()
     for pre, title in re.findall(r'cell_type[^\w]*markdown[^\w]*metadata": \{[^\}]*[^\w]*source": \[\n\s*"(#{1,2})\s+([^\n]*)"',text):
