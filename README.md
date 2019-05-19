@@ -32,17 +32,22 @@
     * 2-gram?
   * Word2Vec
     * Data
-    * SkipGram w/ Torch
+    * SkipGram using Torch
+    * SkipGram + Negative Sampling
     * Visualization
-  * Classification by Neural Network
+  * Classification by CNN
   * Language modelling by MLP
-  * Sequence generation/tagging by RNN
 ## <a href="https://github.com/hoihui/pkgs/blob/master/RNN.ipynb">RNN.ipynb</a>
   * Sine Curve
     * Torch
   * char-rnn
     * Torch
     * Keras
+  * Sentiment Analsys by RNN with LSTM
+    * Data
+    * Model
+    * Train
+    * Evaluate
   * HRNN (https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
