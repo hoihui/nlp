@@ -1,6 +1,7 @@
 * files starting with capitalized letters are sample codes for respective topics
 * files starting with lower-case letters are tutorials for packages
 # Table of Contents
+# Topics
 ### <a href="https://github.com/hoihui/pkgs/blob/master/Autoencoder.ipynb">Autoencoder.ipynb</a>
   * MNIST w/ torch
     * Load Data
@@ -28,10 +29,13 @@
     * Model
     * Train
     * Evaluate
+  * Street View House Number, Convolutional
     * Data
     * Model
     * Train
     * Evaluate
+  * CycleGAN
+    * Data
 ### <a href="https://github.com/hoihui/pkgs/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
@@ -70,6 +74,7 @@
     * Extracting style/content features from vgg
     * Defining and Optimizing wrt Loss function
     * Final Display
+# Packages
 ### <a href="https://github.com/hoihui/pkgs/blob/master/gensim.ipynb">gensim.ipynb</a>
   * Preprocess
     * Tokenize
