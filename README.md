@@ -28,6 +28,10 @@
     * Model
     * Train
     * Evaluate
+    * Data
+    * Model
+    * Train
+    * Evaluate
 ### <a href="https://github.com/hoihui/pkgs/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
