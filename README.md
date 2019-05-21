@@ -94,15 +94,6 @@
   * Topic Modelling
     * Internal LDA
     * umass Mallet
-### <a href="https://github.com/hoihui/pkgs/blob/master/keras.ipynb">keras.ipynb</a>
-  * Data Preparation
-  * Model Building
-    * Sequential Building
-    * Functional API ~nngraph
-    * Common Model Properties
-    * Common Layer Properties
-  * Training
-  * Custom Evaluation
 ### <a href="https://github.com/hoihui/pkgs/blob/master/nltk.ipynb">nltk.ipynb</a>
   * Corpora
     * Samples
@@ -157,7 +148,7 @@
   * Inference
   * Save / Load
     * Pretrained Models
-### <a href="https://github.com/hoihui/pkgs/blob/master/tensorflow.ipynb">tensorflow.ipynb</a>
+### <a href="https://github.com/hoihui/pkgs/blob/master/tensorflow_keras.ipynb">tensorflow_keras.ipynb</a>
   * Tensors
     * Numbers
     * Linear Alegra
@@ -165,19 +156,21 @@
     * Autograd
     * To/from Numpy
   * Datasets
-    * Images
-    * MNIST
-    * Cats/Dogs
+    * Custom Dataset
   * Constructing Network
-    * Instantiate
-    * Initialization
-    * Forward
-    * Using nn. without class
+    * Prebuilt <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers">Layers</a>
+    * Custom Layer
+    * Sequential Building
+    * Functional API ~nngraph
+    * Common Model Properties
+    * Common Layer Properties
   * Training Network
     * Defining loss function
     * backprop
     * Optimizer
     * On GPU
+    * Keras
+  * Custom Evaluation
   * Inference
   * Save / Load
     * Pretrained Models
