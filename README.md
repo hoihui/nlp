@@ -155,11 +155,11 @@
     * Functions
     * Autograd
     * To/from Numpy
-    * TF function and AutoGraph
+    * [TF function and AutoGraph](https://www.tensorflow.org/alpha/tutorials/eager/tf_function)
   * Datasets
     * [Keras datasets](https://keras.io/datasets/) 
     * Custom Dataset
-    * Downloaded
+    * Downloaded csv
   * Constructing Network
     * Prebuilt <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers">Layers</a>
     * Custom Layer
@@ -172,4 +172,4 @@
     * Custom grad + [Keras Optimizer](https://keras.io/optimizers/)
     * Keras Compilation & Train
   * Custom Evaluation
-  * sklearn-style interface
+  * sklearn-style interface ?
