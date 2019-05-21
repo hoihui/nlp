@@ -74,7 +74,7 @@
     * Extracting style/content features from vgg
     * Defining and Optimizing wrt Loss function
     * Final Display
-# Packages
+## Packages
 ### <a href="https://github.com/hoihui/pkgs/blob/master/gensim.ipynb">gensim.ipynb</a>
   * Preprocess
     * Tokenize
@@ -158,5 +158,27 @@
   * Save / Load
     * Pretrained Models
 ### <a href="https://github.com/hoihui/pkgs/blob/master/tensorflow.ipynb">tensorflow.ipynb</a>
-  * Keras from tf
+  * Tensors
+    * Numbers
+    * Linear Alegra
+    * Functions
+    * Autograd
+    * To/from Numpy
+  * Datasets
+    * Images
+    * MNIST
+    * Cats/Dogs
+  * Constructing Network
+    * Instantiate
+    * Initialization
+    * Forward
+    * Using nn. without class
+  * Training Network
+    * Defining loss function
+    * backprop
+    * Optimizer
+    * On GPU
+  * Inference
+  * Save / Load
+    * Pretrained Models
   * sklearn interface

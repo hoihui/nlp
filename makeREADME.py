@@ -11,7 +11,7 @@ switched=False
 for fn in sorted(glob.glob('*.ipynb')):
     if fn[0] in 'qwertyuiopasddfghjklzxcvbnm' and not switched:
         switched=True
-        out.write('# Packages\n')
+        out.write('## Packages\n')
     out.write('### <a href="https://github.com/hoihui/pkgs/blob/master/{f}">{f}</a>\n'.format(f=fn))
     with open(fn) as f:
         text = f.read()
