@@ -155,8 +155,11 @@
     * Functions
     * Autograd
     * To/from Numpy
+    * TF function and AutoGraph
   * Datasets
+    * [Keras datasets](https://keras.io/datasets/) 
     * Custom Dataset
+    * Downloaded
   * Constructing Network
     * Prebuilt <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers">Layers</a>
     * Custom Layer
@@ -165,13 +168,8 @@
     * Common Model Properties
     * Common Layer Properties
   * Training Network
-    * Defining loss function
-    * backprop
-    * Optimizer
-    * On GPU
-    * Keras
+    * Custom Training
+    * Custom grad + [Keras Optimizer](https://keras.io/optimizers/)
+    * Keras Compilation & Train
   * Custom Evaluation
-  * Inference
-  * Save / Load
-    * Pretrained Models
-  * sklearn interface
+  * sklearn-style interface
