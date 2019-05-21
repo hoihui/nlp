@@ -5,7 +5,7 @@ out=open('README.md','w')
 out.write('* files starting with capitalized letters are sample codes for respective topics\n')
 out.write('* files starting with lower-case letters are tutorials for packages\n')
 out.write('# Table of Contents\n')
-out.write('# Topics\n')
+out.write('## Topics\n')
 switched=False
 
 for fn in sorted(glob.glob('*.ipynb')):

@@ -1,7 +1,7 @@
 * files starting with capitalized letters are sample codes for respective topics
 * files starting with lower-case letters are tutorials for packages
 # Table of Contents
-# Topics
+## Topics
 ### <a href="https://github.com/hoihui/pkgs/blob/master/Autoencoder.ipynb">Autoencoder.ipynb</a>
   * MNIST w/ torch
     * Load Data
