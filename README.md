@@ -12,6 +12,11 @@
   * MNIST
     * Torch
     * Keras
+  * [Human or horse](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb)
+    * Data
+    * Model
+    * Train
+  * Evaluate
   * CIFAR-10
     * Torch
   * Transfer DenseNet to cats/dogs
@@ -157,9 +162,11 @@
     * To/from Numpy
     * [TF function and AutoGraph](https://www.tensorflow.org/alpha/tutorials/eager/tf_function)
   * Datasets
-    * [Keras datasets](https://keras.io/datasets/) 
+    * [Keras.datasets](https://keras.io/datasets/) 
+    * Transformation
     * Custom Dataset
-    * Downloaded csv
+    * Handling images
+    * Download csv
   * Constructing Network
     * Prebuilt <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers">Layers</a>
     * Custom Layer
@@ -167,9 +174,10 @@
     * Functional API ~nngraph
     * Common Model Properties
     * Common Layer Properties
+    * Extraction from model
   * Training Network
     * Custom Training
     * Custom grad + [Keras Optimizer](https://keras.io/optimizers/)
-    * Keras Compilation & Train
+    * Keras Loss & Optimizer
   * Custom Evaluation
   * sklearn-style interface ?
