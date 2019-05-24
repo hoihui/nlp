@@ -179,5 +179,8 @@
     * Custom Training
     * Custom grad + [Keras Optimizer](https://keras.io/optimizers/)
     * Keras Loss & Optimizer
+  * Save / load
+    * Built-in Pretrained models
+    * TFHub
   * Custom Evaluation
   * sklearn-style interface ?
