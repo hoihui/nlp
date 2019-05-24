@@ -19,10 +19,9 @@
   * Evaluate
   * CIFAR-10
     * Torch
-  * Transfer DenseNet to cats/dogs
-    * Load data
-    * Load Model
-    * Train
+  * Cats/dogs by Transfer Learning
+    * DenseNet  with torch
+    * MobileNet V2 with tensorflow
   * Transfer VGG16 to Flowers
     * Load data
     * Load VGG19 Model
@@ -54,6 +53,11 @@
     * SkipGram using Torch
     * SkipGram + Negative Sampling
     * Visualization
+  * Word Embedding + sentiment of imdb
+    * Load Data
+    * Model
+    * Train
+    * Evaluation
   * Classification by CNN
   * Language modelling by MLP
 ### <a href="https://github.com/hoihui/pkgs/blob/master/RNN.ipynb">RNN.ipynb</a>
@@ -62,12 +66,16 @@
   * char-rnn
     * Torch
     * Keras
-  * Sentiment Analsys by RNN with LSTM
+  * IMDB Sentiment by RNN with LSTM
     * Data
     * Model
     * Train
     * Evaluate
-  * HRNN (https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
+  * IMDB large sentiment by Bidirectional LSTM
+    * Load Data
+    * Model
+    * Train
+  * [HRNN](https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
 ### <a href="https://github.com/hoihui/pkgs/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
@@ -85,7 +93,7 @@
     * Tokenize
     * Vectorize Corpora
   * Transformations
-    * Tfidf (term frequencyâinverse document frequency)
+    * Tfidf (term frequency-inverse document frequency)
     * <a href="https://radimrehurek.com/gensim/models/lsimodel.html#module-gensim.models.lsimodel">lsi (Latent Semantic Indexing)</a>
     * <a href="https://radimrehurek.com/gensim/models/ldamodel.html">lda (Latent Dirichlet Allocation)</a>
     * <a href="https://radimrehurek.com/gensim/models/hdpmodel.html">hdp (Hierarchical Dirichlet Process)</a>
@@ -163,7 +171,7 @@
     * [TF function and AutoGraph](https://www.tensorflow.org/alpha/tutorials/eager/tf_function)
   * Datasets
     * [Keras.datasets](https://keras.io/datasets/) 
-    * [tensorflow_datasets](http://tensorflow.org/datasets)
+    * [tensorflow_datasets](https://www.tensorflow.org/datasets/datasets)
     * Transformation
     * Custom Dataset
     * Handling images
@@ -175,13 +183,13 @@
     * Functional API ~nngraph
     * Common Model Properties
     * Common Layer Properties
-    * Extraction from model
+    * Composite model specifying inputs/outputs
   * Training Network
     * Custom Training
     * Custom grad + [Keras Optimizer](https://keras.io/optimizers/)
     * Keras Loss & Optimizer
   * Save / load
-    * Built-in Pretrained models
-    * TFHub
+    * Pretrained models from Built-in 
+    * Pretrained models from TFHub
   * Custom Evaluation
   * sklearn-style interface ?
