@@ -163,6 +163,7 @@
     * [TF function and AutoGraph](https://www.tensorflow.org/alpha/tutorials/eager/tf_function)
   * Datasets
     * [Keras.datasets](https://keras.io/datasets/) 
+    * [tensorflow_datasets](http://tensorflow.org/datasets)
     * Transformation
     * Custom Dataset
     * Handling images

@@ -1,7 +1,7 @@
 import os, glob, re
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
-out=open('README.md','w')
+out=open('README.md','w',encoding='utf-8')
 out.write('* files starting with capitalized letters are sample codes for respective topics\n')
 out.write('* files starting with lower-case letters are tutorials for packages\n')
 out.write('# Table of Contents\n')
@@ -13,9 +13,13 @@ for fn in sorted(glob.glob('*.ipynb')):
         switched=True
         out.write('## Packages\n')
     out.write('### <a href="https://github.com/hoihui/pkgs/blob/master/{f}">{f}</a>\n'.format(f=fn))
-    with open(fn) as f:
+    with open(fn,'r',encoding='utf-8') as f:
         text = f.read()
     for pre, title in re.findall(r'cell_type[^\w]*markdown[^\w]*metadata": \{[^\}]*[^\w]*source": \[\n\s*"(#{1,2})\s+([^\n]*)"',text):
-        out.write('  '*len(pre)+'* '+bytes(title,"utf-8").decode('unicode_escape')+'\n')
+        s = '  '*len(pre)
+        s += '* '+bytes(title,"utf-8", errors='ignore').decode('unicode_escape', errors='ignore')
+        s += '\n'
+#         print(s)
+        out.write(s)
         
 out.close()
