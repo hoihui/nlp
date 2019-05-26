@@ -75,6 +75,7 @@
     * Load Data
     * Model
     * Train
+    * Evaluate
   * [HRNN](https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
