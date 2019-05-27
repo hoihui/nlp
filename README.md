@@ -19,9 +19,11 @@
   * Evaluate
   * CIFAR-10
     * Torch
-  * Cats/dogs by Transfer Learning
-    * DenseNet  with torch
-    * MobileNet V2 with tensorflow
+  * Cats and dogs
+    * CNN w/ keras
+    * Transfer DenseNet w/ torch
+    * Transfer InceptionV3 w/ keras
+    * Transfer MobileNetV2 w/ tensorflow
   * Transfer VGG16 to Flowers
     * Load data
     * Load VGG19 Model
@@ -173,7 +175,7 @@
   * Datasets
     * [Keras.datasets](https://keras.io/datasets/) 
     * [tensorflow_datasets](https://www.tensorflow.org/datasets/datasets)
-    * Transformation
+    * Transformation (Augmentation)
     * Custom Dataset
     * Handling images
     * Download csv
