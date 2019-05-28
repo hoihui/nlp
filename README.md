@@ -94,6 +94,7 @@
     * Extracting style/content features from vgg
     * Defining and Optimizing wrt Loss function
     * Final Display
+  * Tensorflow
     * Load Image
     * Load Model
     * Extract style/content
