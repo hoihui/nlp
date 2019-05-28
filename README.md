@@ -46,6 +46,9 @@
     * Evaluate
   * CycleGAN
     * Data
+### <a href="https://github.com/hoihui/pkgs/blob/master/ImageTranslation.ipynb">ImageTranslation.ipynb</a>
+  * CycleGAN
+    * Data
 ### <a href="https://github.com/hoihui/pkgs/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
