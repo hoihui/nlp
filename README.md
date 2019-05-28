@@ -47,7 +47,11 @@
   * CycleGAN
     * Data
 ### <a href="https://github.com/hoihui/pkgs/blob/master/ImageTranslation.ipynb">ImageTranslation.ipynb</a>
-  * CycleGAN
+  * Pix2Pix w/ tensorflow
+    * Data
+    * Model
+    * Train
+  * CycleGAN w/ torch
     * Data
 ### <a href="https://github.com/hoihui/pkgs/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
@@ -190,7 +194,7 @@
     * [tensorflow_datasets](https://www.tensorflow.org/datasets/datasets)
     * Transformation (Augmentation)
     * Custom Dataset
-    * Handling images
+    * images Loader
     * Download csv
   * Constructing Network
     * Prebuilt <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers">Layers</a>
