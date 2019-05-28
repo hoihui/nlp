@@ -8,6 +8,7 @@
     * Linear Autoencoder
     * Convolutional Autoencoder
     * Denoising Convolutional Autoencoder
+  * MNIST Conv VAE w/ tensorflow
 ### <a href="https://github.com/hoihui/pkgs/blob/master/CNN.ipynb">CNN.ipynb</a>
   * MNIST
     * Torch
@@ -16,7 +17,7 @@
     * Data
     * Model
     * Train
-  * Evaluate
+    * Evaluate
   * CIFAR-10
     * Torch
   * Cats and dogs
@@ -25,7 +26,6 @@
     * Transfer InceptionV3 w/ keras
     * Transfer MobileNetV2 w/ tensorflow
   * Transfer VGG16 to Flowers
-    * Load data
     * Load VGG19 Model
     * Train
     * Evaluate
@@ -35,6 +35,10 @@
     * Model
     * Train
     * Evaluate
+  * MNIST, Convolutional
+    * Load Data
+    * Model
+    * Train
   * Street View House Number, Convolutional
     * Data
     * Model
@@ -86,10 +90,15 @@
   * Flappy
 ### <a href="https://github.com/hoihui/pkgs/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
-    * Load VGG19 and Images
+    * Load Images and VGG19
     * Extracting style/content features from vgg
     * Defining and Optimizing wrt Loss function
     * Final Display
+    * Load Image
+    * Load Model
+    * Extract style/content
+    * Basic training
+    * Total variation loss
 ## Packages
 ### <a href="https://github.com/hoihui/pkgs/blob/master/gensim.ipynb">gensim.ipynb</a>
   * Preprocess
