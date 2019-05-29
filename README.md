@@ -2,14 +2,14 @@
 * files starting with lower-case letters are tutorials for packages
 # Table of Contents
 ## Topics
-### <a href="https://github.com/hoihui/pkgs/blob/master/Autoencoder.ipynb">Autoencoder.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/Autoencoder.ipynb">Autoencoder.ipynb</a>
   * MNIST w/ torch
     * Load Data
     * Linear Autoencoder
     * Convolutional Autoencoder
     * Denoising Convolutional Autoencoder
   * MNIST Conv VAE w/ tensorflow
-### <a href="https://github.com/hoihui/pkgs/blob/master/CNN.ipynb">CNN.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/CNN.ipynb">CNN.ipynb</a>
   * MNIST
     * Torch
     * Keras
@@ -29,7 +29,7 @@
     * Load VGG19 Model
     * Train
     * Evaluate
-### <a href="https://github.com/hoihui/pkgs/blob/master/GAN.ipynb">GAN.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/GAN.ipynb">GAN.ipynb</a>
   * MNIST, MLP
     * Load Data
     * Model
@@ -46,18 +46,21 @@
     * Evaluate
   * CycleGAN
     * Data
-### <a href="https://github.com/hoihui/pkgs/blob/master/ImageTranslation.ipynb">ImageTranslation.ipynb</a>
-  * Pix2Pix w/ tensorflow
+### <a href="https://github.com/hoihui/tutorial/blob/master/ImageTranslation.ipynb">ImageTranslation.ipynb</a>
+  * Pix2Pix on building facades w/ tensorflow
     * Data
     * Model
     * Train
-  * CycleGAN w/ torch
+  * CycleGAN on Yosemite's summer/winter w/ torch
     * Data
-### <a href="https://github.com/hoihui/pkgs/blob/master/MLP.ipynb">MLP.ipynb</a>
+    * Model
+    * Train
+    * Evaluate
+### <a href="https://github.com/hoihui/tutorial/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
     * Keras
-### <a href="https://github.com/hoihui/pkgs/blob/master/NLP.ipynb">NLP.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/NLP.ipynb">NLP.ipynb</a>
   * Logistic Regression on imdb for sentiment
     * BOW - 1-gram
     * 2-gram?
@@ -73,7 +76,7 @@
     * Evaluation
   * Classification by CNN
   * Language modelling by MLP
-### <a href="https://github.com/hoihui/pkgs/blob/master/RNN.ipynb">RNN.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/RNN.ipynb">RNN.ipynb</a>
   * Sine Curve
     * Torch
   * char-rnn
@@ -92,10 +95,10 @@
   * [HRNN](https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
-### <a href="https://github.com/hoihui/pkgs/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
   * Catch (https://gist.github.com/EderSantana/c7222daa328f0e885093)
   * Flappy
-### <a href="https://github.com/hoihui/pkgs/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
     * Load Images and VGG19
     * Extracting style/content features from vgg
@@ -108,7 +111,7 @@
     * Basic training
     * Total variation loss
 ## Packages
-### <a href="https://github.com/hoihui/pkgs/blob/master/gensim.ipynb">gensim.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/gensim.ipynb">gensim.ipynb</a>
   * Preprocess
     * Tokenize
     * Vectorize Corpora
@@ -127,7 +130,7 @@
   * Topic Modelling
     * Internal LDA
     * umass Mallet
-### <a href="https://github.com/hoihui/pkgs/blob/master/nltk.ipynb">nltk.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/nltk.ipynb">nltk.ipynb</a>
   * Corpora
     * Samples
     * Special Corpora ("Lexical Resources")
@@ -152,12 +155,12 @@
     * Probabilistic Graphical Model
   * Sentiment
     * VADER
-### <a href="https://github.com/hoihui/pkgs/blob/master/othernlp.ipynb">othernlp.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/othernlp.ipynb">othernlp.ipynb</a>
   * Stanford NLP
   * TextBlob for sentiment
   * Spacy for preprocessing
   * scikit-learn
-### <a href="https://github.com/hoihui/pkgs/blob/master/pytorch.ipynb">pytorch.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/pytorch.ipynb">pytorch.ipynb</a>
   * Tensors
     * Numbers
     * Linear Alegra
@@ -181,7 +184,7 @@
   * Inference
   * Save / Load
     * Pretrained Models
-### <a href="https://github.com/hoihui/pkgs/blob/master/tensorflow_keras.ipynb">tensorflow_keras.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/tensorflow_keras.ipynb">tensorflow_keras.ipynb</a>
   * Tensors
     * Numbers
     * Linear Alegra

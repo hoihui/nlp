@@ -12,7 +12,7 @@ for fn in sorted(glob.glob('*.ipynb')):
     if fn[0] in 'qwertyuiopasddfghjklzxcvbnm' and not switched:
         switched=True
         out.write('## Packages\n')
-    out.write('### <a href="https://github.com/hoihui/pkgs/blob/master/{f}">{f}</a>\n'.format(f=fn))
+    out.write('### <a href="https://github.com/hoihui/tutorial/blob/master/{f}">{f}</a>\n'.format(f=fn))
     with open(fn,'r',encoding='utf-8') as f:
         text = f.read()
     for pre, title in re.findall(r'cell_type[^\w]*markdown[^\w]*metadata": \{[^\}]*[^\w]*source": \[\n\s*"(#{1,2})\s+([^\n]*)"',text):
