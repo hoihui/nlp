@@ -60,9 +60,6 @@
   * MNIST
     * Torch
     * Keras
-### <a href="https://github.com/hoihui/tutorial/blob/master/MachineTranslation.ipynb">MachineTranslation.ipynb</a>
-  * Translate dates to standard format
-  * language translation 
 ### <a href="https://github.com/hoihui/tutorial/blob/master/NLP.ipynb">NLP.ipynb</a>
   * Logistic Regression on imdb for sentiment
     * BOW - 1-gram
@@ -92,15 +89,21 @@
     * Evaluate
   * IMDB large sentiment by Bidirectional LSTM
     * Load Data
-    * Model
-    * Train
-    * Evaluate
+    * Model w/o Attention
+    * Model w/ Attention
   * [HRNN](https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
 ### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
   * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
   * Flappy
+### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToSequence.ipynb">SequenceToSequence.ipynb</a>
+  * Test Integer Sequences
+    * Generate Data
+    * Keras Model w/o Attention
+    * Keras Model w/ Attention
+  * Translate dates to standard format
+  * language translation 
 ### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
     * Load Images and VGG19
@@ -206,7 +209,7 @@
     * Prebuilt <a href="https://www.tensorflow.org/api_docs/python/tf/keras/layers">Layers</a>
     * Custom Layer
     * Sequential Building
-    * Functional API ~nngraph
+    * Functional API build step by step as walkthrough
     * Common Model Properties
     * Common Layer Properties
     * Composite model specifying inputs/outputs
