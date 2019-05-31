@@ -60,6 +60,9 @@
   * MNIST
     * Torch
     * Keras
+### <a href="https://github.com/hoihui/tutorial/blob/master/MachineTranslation.ipynb">MachineTranslation.ipynb</a>
+  * Translate dates to standard format
+  * language translation 
 ### <a href="https://github.com/hoihui/tutorial/blob/master/NLP.ipynb">NLP.ipynb</a>
   * Logistic Regression on imdb for sentiment
     * BOW - 1-gram
@@ -96,7 +99,7 @@
     * Data
     * Model
 ### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
-  * Catch (https://gist.github.com/EderSantana/c7222daa328f0e885093)
+  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
   * Flappy
 ### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
