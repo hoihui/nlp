@@ -82,15 +82,15 @@
   * char-rnn
     * Torch
     * Keras
-  * IMDB Sentiment by RNN with LSTM
+  * IMDB Sentiment w/ torch
     * Data
     * Model
     * Train
     * Evaluate
-  * IMDB large sentiment by Bidirectional LSTM
+  * IMDB sentiment w/ keras
     * Load Data
     * Model w/o Attention
-    * Model w/ Attention
+    * Models w/ Attention
   * [HRNN](https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
