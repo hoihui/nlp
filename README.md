@@ -101,6 +101,7 @@
   * Test Integer Sequences
     * Generate Data
     * Keras Model w/o Attention
+    * Train and
     * Keras Model w/ Attention
   * Translate dates to standard format
   * language translation 
