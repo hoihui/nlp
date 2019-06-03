@@ -100,11 +100,10 @@
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToSequence.ipynb">SequenceToSequence.ipynb</a>
   * Test Integer Sequences
     * Generate Data
-    * Keras Model w/o Attention
-    * Train and
-    * Keras Model w/ Attention
+    * Keras Models
+    * Train and Evaluate
   * Translate dates to standard format
-  * language translation 
+  * Encoder-Decoder
 ### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
     * Load Images and VGG19
