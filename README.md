@@ -76,7 +76,10 @@
     * Evaluation
   * Classification by CNN
   * Language modelling by MLP
-### <a href="https://github.com/hoihui/tutorial/blob/master/RNN.ipynb">RNN.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
+  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
+  * Flappy
+### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
   * char-rnn
@@ -89,14 +92,11 @@
     * Evaluate
   * IMDB sentiment w/ keras
     * Load Data
-    * Model w/o Attention
-    * Models w/ Attention
+    * Models
+    * Train and Evaluate
   * [HRNN](https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
-### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
-  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
-  * Flappy
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToSequence.ipynb">SequenceToSequence.ipynb</a>
   * Test Integer Sequences
     * Generate Data
