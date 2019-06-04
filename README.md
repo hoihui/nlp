@@ -103,6 +103,7 @@
     * Keras Models
     * Train and Evaluate
   * Translate dates to standard format
+    * Generate Data
   * Encoder-Decoder
 ### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
