@@ -102,8 +102,10 @@
     * Data Generator
     * Models
     * Train and Evaluate
-  * Tensorflow
+  * Language translation
     * Data
+    * Train
+    * Evaluate
 ### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
     * Load Images and VGG19
