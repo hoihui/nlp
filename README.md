@@ -98,13 +98,12 @@
     * Data
     * Model
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToSequence.ipynb">SequenceToSequence.ipynb</a>
-  * Test Integer Sequences
-    * Generate Data
-    * Keras Models
+  * Self-generated data w/ Keras
+    * Data Generator
+    * Models
     * Train and Evaluate
-  * Translate dates to standard format
-    * Generate Data
-  * Encoder-Decoder
+  * Tensorflow
+    * Data
 ### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
   * Torch
     * Load Images and VGG19
