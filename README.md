@@ -74,7 +74,7 @@
     * Evaluation
   * Classification by CNN
   * Language modelling by MLP
-### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/QLearning.ipynb">QLearning.ipynb</a>
   * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
     * Setup Environment
     * Deep Model
