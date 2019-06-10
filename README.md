@@ -44,8 +44,6 @@
     * Model
     * Train
     * Evaluate
-  * CycleGAN
-    * Data
 ### <a href="https://github.com/hoihui/tutorial/blob/master/ImageTranslation.ipynb">ImageTranslation.ipynb</a>
   * Pix2Pix on building facades w/ tensorflow
     * Data
@@ -78,7 +76,11 @@
   * Language modelling by MLP
 ### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
   * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
-  * Flappy
+    * Setup Environment
+    * Deep Model
+    * Evaluation
+    * Visualization
+  * Player, Food, Enemy
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
@@ -107,12 +109,15 @@
     * Train
     * Evaluate
 ### <a href="https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb">StyleTransfer.ipynb</a>
-  * Torch
+  * Deep Dreaming w/ Torch
+    * Load Images and VGG19
+  * Deep Dreaming w/ Tensorflow
+  * Style Transfer w/ Torch
     * Load Images and VGG19
     * Extracting style/content features from vgg
     * Defining and Optimizing wrt Loss function
     * Final Display
-  * Tensorflow
+  * Style Transfer w/ Tensorflow
     * Load Image
     * Load Model
     * Extract style/content
@@ -139,6 +144,8 @@
     * Internal LDA
     * umass Mallet
 ### <a href="https://github.com/hoihui/tutorial/blob/master/gym.ipynb">gym.ipynb</a>
+  * Built-in
+    * Mountain Car
 ### <a href="https://github.com/hoihui/tutorial/blob/master/nltk.ipynb">nltk.ipynb</a>
   * Corpora
     * Samples
