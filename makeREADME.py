@@ -17,7 +17,7 @@ for fn in sorted(glob.glob('*.ipynb')):
         text = f.read()
     for pre, title in re.findall(r'cell_type[^\w]*markdown[^\w]*metadata": \{[^\}]*[^\w]*source": \[\n\s*"(#{1,2})\s+([^\n]*)"',text):
         s = '  '*len(pre)
-        s += '* '+bytes(title,"utf-8", errors='ignore').decode('unicode_escape', errors='ignore')
+        s += '* '+bytes(title,"utf-8", errors='ignore').decode('unicode_escape', errors='ignore').strip()
         s += '\n'
 #         print(s)
         out.write(s)

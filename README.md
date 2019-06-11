@@ -81,6 +81,11 @@
     * Evaluation
     * Visualization
   * Player, Food, Enemy
+### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
+  * David Silver
+    * [Lecture 1](https://www.youtube.com/watch?v=2pWv7GOvuf0) [Intro](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
+    * [Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ) [Markov Decision Processes](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf)
+    * [Lecture 3](https://www.youtube.com/watch?v=Nd1-UUMVfz4) [Planning by Dynamic Programming](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/DP.pdf)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
@@ -134,7 +139,7 @@
     * <a href="https://radimrehurek.com/gensim/models/ldamodel.html">lda (Latent Dirichlet Allocation)</a>
     * <a href="https://radimrehurek.com/gensim/models/hdpmodel.html">hdp (Hierarchical Dirichlet Process)</a>
   * Similarities
-  * <a href="https://radimrehurek.com/gensim/models/phrases.html">Phrase Modelling</a> 
+  * <a href="https://radimrehurek.com/gensim/models/phrases.html">Phrase Modelling</a>
   * Word2Vec
     * pretrained by nltk
     * pretrained by Google
@@ -209,7 +214,7 @@
     * To/from Numpy
     * [TF function and AutoGraph](https://www.tensorflow.org/alpha/tutorials/eager/tf_function)
   * Datasets
-    * [Keras.datasets](https://keras.io/datasets/) 
+    * [Keras.datasets](https://keras.io/datasets/)
     * [tensorflow_datasets](https://www.tensorflow.org/datasets/datasets)
     * Transformation (Augmentation)
     * Custom Dataset
@@ -228,7 +233,7 @@
     * Custom grad + [Keras Optimizer](https://keras.io/optimizers/)
     * Keras Loss & Optimizer
   * Save / load
-    * Pretrained models from Built-in 
+    * Pretrained models from Built-in
     * Pretrained models from TFHub
   * Custom Evaluation
   * sklearn-style interface ?
