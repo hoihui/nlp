@@ -86,6 +86,7 @@
     * [Lecture 1](https://www.youtube.com/watch?v=2pWv7GOvuf0) [Intro](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
     * [Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ) [Markov Decision Processes](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf)
     * [Lecture 3](https://www.youtube.com/watch?v=Nd1-UUMVfz4) [Planning by Dynamic Programming](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/DP.pdf)
+    * [Lecture 4](https://www.youtube.com/watch?v=PnHCvfgC_ZA) [Model-Free Prediction](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MC-TD.pdf)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
