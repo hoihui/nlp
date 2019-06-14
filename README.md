@@ -87,6 +87,7 @@
     * [Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ) [Markov Decision Processes](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf)
     * [Lecture 3](https://www.youtube.com/watch?v=Nd1-UUMVfz4) [Planning by Dynamic Programming](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/DP.pdf)
     * [Lecture 4](https://www.youtube.com/watch?v=PnHCvfgC_ZA) [Model-Free Prediction](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MC-TD.pdf)
+    * [Lecture 5](https://www.youtube.com/watch?v=0g4j2k_Ggc4) [Model Free Control](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/control.pdf)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
@@ -130,6 +131,7 @@
     * Basic training
     * Total variation loss
 ## Packages
+### <a href="https://github.com/hoihui/tutorial/blob/master/datatable.ipynb">datatable.ipynb</a>
 ### <a href="https://github.com/hoihui/tutorial/blob/master/gensim.ipynb">gensim.ipynb</a>
   * Preprocess
     * Tokenize
