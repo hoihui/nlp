@@ -88,6 +88,8 @@
     * [Lecture 3](https://www.youtube.com/watch?v=Nd1-UUMVfz4) [Planning by Dynamic Programming](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/DP.pdf)
     * [Lecture 4](https://www.youtube.com/watch?v=PnHCvfgC_ZA) [Model-Free Prediction](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MC-TD.pdf)
     * [Lecture 5](https://www.youtube.com/watch?v=0g4j2k_Ggc4) [Model Free Control](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/control.pdf)
+    * [Lecture 6](https://www.youtube.com/watch?v=UoPei5o4fps) [Value Function Approximation](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/FA.pdf)
+    * [Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs) [Policy Gradient Methods](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/pg.pdf)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
