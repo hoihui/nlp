@@ -90,6 +90,9 @@
     * [Lecture 5](https://www.youtube.com/watch?v=0g4j2k_Ggc4) [Model Free Control](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/control.pdf)
     * [Lecture 6](https://www.youtube.com/watch?v=UoPei5o4fps) [Value Function Approximation](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/FA.pdf)
     * [Lecture 7](https://www.youtube.com/watch?v=KHZVXao4qXs) [Policy Gradient Methods](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/pg.pdf)
+    * [Lecture 8](https://www.youtube.com/watch?v=ItMutbeOHtc) [Integrating Learning and Planning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/dyna.pdf)
+    * [Lecture 9](https://www.youtube.com/watch?v=sGuiWX07sKw) [Exploration and Exploitation](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/XX.pdf)
+    * [Lecture 10](https://www.youtube.com/watch?v=N1LKLc6ufGY) [Classic Games](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/games.pdf)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
