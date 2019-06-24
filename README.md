@@ -136,6 +136,14 @@
     * Basic training
     * Total variation loss
 ## Packages
+### <a href="https://github.com/hoihui/tutorial/blob/master/cython.ipynb">cython.ipynb</a>
+  * Compilation
+  * using C/C++ libraries
+  * Using [Numpy](http://cython.readthedocs.io/en/latest/src/userguide/numpy_tutorial.html)
+  * Timing
+  * `cdef` local variables
+  * `cython` function that works even if `gcc` compilation fails
+  * Pairwise Distances (numpy list)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/datatable.ipynb">datatable.ipynb</a>
 ### <a href="https://github.com/hoihui/tutorial/blob/master/gensim.ipynb">gensim.ipynb</a>
   * Preprocess
