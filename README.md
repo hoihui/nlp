@@ -165,7 +165,8 @@
     * Internal LDA
     * umass Mallet
 ### <a href="https://github.com/hoihui/tutorial/blob/master/gym.ipynb">gym.ipynb</a>
-  * Built-in
+  * Environment
+  * Wrapper
     * Mountain Car
 ### <a href="https://github.com/hoihui/tutorial/blob/master/nltk.ipynb">nltk.ipynb</a>
   * Corpora
