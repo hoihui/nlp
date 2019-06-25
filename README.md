@@ -29,6 +29,13 @@
     * Load VGG19 Model
     * Train
     * Evaluate
+### <a href="https://github.com/hoihui/tutorial/blob/master/DeepQLearning.ipynb">DeepQLearning.ipynb</a>
+  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
+    * Setup Environment
+    * Deep Model
+    * Evaluation
+    * Visualization
+  * Player, Food, Enemy
 ### <a href="https://github.com/hoihui/tutorial/blob/master/GAN.ipynb">GAN.ipynb</a>
   * MNIST, MLP
     * Load Data
@@ -74,13 +81,6 @@
     * Evaluation
   * Classification by CNN
   * Language modelling by MLP
-### <a href="https://github.com/hoihui/tutorial/blob/master/QLearning.ipynb">QLearning.ipynb</a>
-  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
-    * Setup Environment
-    * Deep Model
-    * Evaluation
-    * Visualization
-  * Player, Food, Enemy
 ### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
   * David Silver
     * [Lecture 1](https://www.youtube.com/watch?v=2pWv7GOvuf0) [Intro](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
@@ -165,7 +165,7 @@
     * Internal LDA
     * umass Mallet
 ### <a href="https://github.com/hoihui/tutorial/blob/master/gym.ipynb">gym.ipynb</a>
-  * Environment
+  * [Environment](http://gym.openai.com/envs/)
   * Wrapper
     * Mountain Car
 ### <a href="https://github.com/hoihui/tutorial/blob/master/nltk.ipynb">nltk.ipynb</a>
