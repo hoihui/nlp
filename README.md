@@ -29,13 +29,13 @@
     * Load VGG19 Model
     * Train
     * Evaluate
-### <a href="https://github.com/hoihui/tutorial/blob/master/DeepQLearning.ipynb">DeepQLearning.ipynb</a>
+### <a href="https://github.com/hoihui/tutorial/blob/master/DQN.ipynb">DQN.ipynb</a>
   * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
     * Setup Environment
     * Deep Model
     * Evaluation
     * Visualization
-  * Player, Food, Enemy
+  * CartPole
 ### <a href="https://github.com/hoihui/tutorial/blob/master/GAN.ipynb">GAN.ipynb</a>
   * MNIST, MLP
     * Load Data
@@ -167,7 +167,6 @@
 ### <a href="https://github.com/hoihui/tutorial/blob/master/gym.ipynb">gym.ipynb</a>
   * [Environment](http://gym.openai.com/envs/)
   * Wrapper
-    * Mountain Car
 ### <a href="https://github.com/hoihui/tutorial/blob/master/nltk.ipynb">nltk.ipynb</a>
   * Corpora
     * Samples
