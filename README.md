@@ -30,13 +30,14 @@
     * Train
     * Evaluate
 ### <a href="https://github.com/hoihui/tutorial/blob/master/DQN.ipynb">DQN.ipynb</a>
-  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093) value network (MLP) on raw pixels
+  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093) MLP on raw pixels
     * Setup Environment
     * Deep Model
     * Evaluation (epsilon=0)
     * Visualization
   * [CartPole](https://gym.openai.com/envs/CartPole-v0/)
-    * value network (MLP) on 4-tuples
+    * MLP(value+target) on 4-tuples
+    * CNN on raw pixels
 ### <a href="https://github.com/hoihui/tutorial/blob/master/GAN.ipynb">GAN.ipynb</a>
   * MNIST, MLP
     * Load Data
@@ -166,7 +167,8 @@
     * Internal LDA
     * umass Mallet
 ### <a href="https://github.com/hoihui/tutorial/blob/master/gym.ipynb">gym.ipynb</a>
-  * [Environment](http://gym.openai.com/envs/)
+  * Basics
+    * [Environment](http://gym.openai.com/envs/)-specific
   * Wrapper
 ### <a href="https://github.com/hoihui/tutorial/blob/master/nltk.ipynb">nltk.ipynb</a>
   * Corpora
