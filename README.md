@@ -30,12 +30,12 @@
     * Train
     * Evaluate
 ### <a href="https://github.com/hoihui/tutorial/blob/master/DQN.ipynb">DQN.ipynb</a>
-  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093)
+  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093) MLP on raw pixels
     * Setup Environment
     * Deep Model
-    * Evaluation
+    * Evaluation (epsilon=0)
     * Visualization
-  * CartPole
+  * [CartPole](https://gym.openai.com/envs/CartPole-v0/) MLP on 4-tuples
 ### <a href="https://github.com/hoihui/tutorial/blob/master/GAN.ipynb">GAN.ipynb</a>
   * MNIST, MLP
     * Load Data
