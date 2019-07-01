@@ -29,15 +29,18 @@
     * Load VGG19 Model
     * Train
     * Evaluate
-### <a href="https://github.com/hoihui/tutorial/blob/master/DQN.ipynb">DQN.ipynb</a>
-  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093) MLP on raw pixels
+### <a href="https://github.com/hoihui/tutorial/blob/master/DeepRL.ipynb">DeepRL.ipynb</a>
+  * Implementations
+    * Deep Value Network, Q learning
+    * Deep Policy Network, MC
+    * Deep policy+value (Actor-Critic) networks
+  * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093) using raw pixels
     * Setup Environment
-    * Deep Model
-    * Evaluation (epsilon=0)
+    * Various Models
     * Visualization
   * [CartPole](https://gym.openai.com/envs/CartPole-v0/)
-    * MLP(value+target) on 4-tuples
-    * CNN on raw pixels
+    * Network on default state representation
+    * CNN value network on raw pixels
 ### <a href="https://github.com/hoihui/tutorial/blob/master/GAN.ipynb">GAN.ipynb</a>
   * MNIST, MLP
     * Load Data
@@ -63,6 +66,11 @@
     * Model
     * Train
     * Evaluate
+### <a href="https://github.com/hoihui/tutorial/blob/master/MCTS.ipynb">MCTS.ipynb</a>
+  * Implementations
+    * [mcts](https://github.com/pbsinclair42/MCTS/) (modified)
+    * [mcts.ai](http://mcts.ai/code/python.html)
+    * [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo/tree/develop/AlphaGo)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
@@ -84,7 +92,7 @@
   * Classification by CNN
   * Language modelling by MLP
 ### <a href="https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb">Reinforcement.ipynb</a>
-  * David Silver
+  * David Silver's Lectures
     * [Lecture 1](https://www.youtube.com/watch?v=2pWv7GOvuf0) [Intro](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
     * [Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ) [Markov Decision Processes](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf)
     * [Lecture 3](https://www.youtube.com/watch?v=Nd1-UUMVfz4) [Planning by Dynamic Programming](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/DP.pdf)
@@ -95,6 +103,11 @@
     * [Lecture 8](https://www.youtube.com/watch?v=ItMutbeOHtc) [Integrating Learning and Planning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/dyna.pdf)
     * [Lecture 9](https://www.youtube.com/watch?v=sGuiWX07sKw) [Exploration and Exploitation](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/XX.pdf)
     * [Lecture 10](https://www.youtube.com/watch?v=N1LKLc6ufGY) [Classic Games](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/games.pdf)
+  * Examples
+    * [Mountain Car by discrete Q-learning](https://pythonprogramming.net/q-learning-reinforcement-learning-python-tutorial/)
+    * [Cart-Pole by Monte Carlo Q-table](https://gist.githubusercontent.com/karpathy/868459dad1883098fe55806e69f40c91/raw/af6730c668cc8674765e1bef0bc45aa9c598d954/gistfile1.py)
+    * Policy Evaluation (Lecture 1.3-1.4)
+    * Policy Gradient on CartPole (Lecture 1.7)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb">SequenceToNumbers.ipynb</a>
   * Sine Curve
     * Torch
@@ -170,6 +183,7 @@
   * Basics
     * [Environment](http://gym.openai.com/envs/)-specific
   * Wrapper
+  * Custom environment
 ### <a href="https://github.com/hoihui/tutorial/blob/master/nltk.ipynb">nltk.ipynb</a>
   * Corpora
     * Samples
