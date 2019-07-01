@@ -67,9 +67,10 @@
     * Train
     * Evaluate
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MCTS.ipynb">MCTS.ipynb</a>
-  * Implementations
-    * [mcts](https://github.com/pbsinclair42/MCTS/) (modified)
-    * [mcts.ai](http://mcts.ai/code/python.html)
+  * Barebone UCT
+    * Code: [mcts.ai](http://mcts.ai/code/python.html) + [mcts](https://github.com/pbsinclair42/MCTS/) + reuse nodes
+    * tic-tac-toe
+    * Othello
     * [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo/tree/develop/AlphaGo)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
