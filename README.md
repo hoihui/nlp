@@ -67,12 +67,14 @@
     * Train
     * Evaluate
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MCTS.ipynb">MCTS.ipynb</a>
-  * Barebone UCT
+  * Barebone MCTS with UCT
     * Code: [mcts.ai](http://mcts.ai/code/python.html) modified + reuse nodes
-    * tic-tac-toe
-    * ConnectN
+    * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
+    * Connect4
     * Othello
   * AlphaGo-style (guide tree search by policy+value network)
+    * [Connect4](https://github.com/plkmo/AlphaZero_Connect4)
+    * Othello
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
