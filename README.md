@@ -68,10 +68,11 @@
     * Evaluate
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MCTS.ipynb">MCTS.ipynb</a>
   * Barebone UCT
-    * Code: [mcts.ai](http://mcts.ai/code/python.html) + [mcts](https://github.com/pbsinclair42/MCTS/) + reuse nodes
+    * Code: [mcts.ai](http://mcts.ai/code/python.html) modified + reuse nodes
     * tic-tac-toe
+    * ConnectN
     * Othello
-    * [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo/tree/develop/AlphaGo)
+  * AlphaGo-style (guide tree search by policy+value network)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
