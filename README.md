@@ -72,9 +72,9 @@
     * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
     * Connect4
     * Othello
-  * AlphaGo-style (guide tree search by policy+value network)
+  * AlphaZero-style (guide tree search by policy+value network)
     * [Connect4](https://github.com/plkmo/AlphaZero_Connect4)
-    * Othello
+    * [Othello](https://github.com/suragnair/alpha-zero-general)
 ### <a href="https://github.com/hoihui/tutorial/blob/master/MLP.ipynb">MLP.ipynb</a>
   * MNIST
     * Torch
