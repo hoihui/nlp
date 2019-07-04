@@ -2,14 +2,14 @@
 * files starting with lower-case letters are tutorials for packages
 # Table of Contents
 ## Topics
-### [Autoencoder.ipynb](https://github.com/hoihui/tutorial/blob/master/Autoencoder.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/Autoencoder.ipynb)
+### [Autoencoder.ipynb](https://github.com/hoihui/tutorial/blob/master/Autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/Autoencoder.ipynb)
   * MNIST w/ torch
     * Load Data
     * Linear Autoencoder
     * Convolutional Autoencoder
     * Denoising Convolutional Autoencoder
   * MNIST Conv VAE w/ tensorflow
-### [CNN.ipynb](https://github.com/hoihui/tutorial/blob/master/CNN.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/CNN.ipynb)
+### [CNN.ipynb](https://github.com/hoihui/tutorial/blob/master/CNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/CNN.ipynb)
   * MNIST
     * Torch
     * Keras
@@ -29,7 +29,7 @@
     * Load VGG19 Model
     * Train
     * Evaluate
-### [DeepRL.ipynb](https://github.com/hoihui/tutorial/blob/master/DeepRL.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/DeepRL.ipynb)
+### [DeepRL.ipynb](https://github.com/hoihui/tutorial/blob/master/DeepRL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/DeepRL.ipynb)
   * Implementations
     * Deep Value Network, Q learning
     * Deep Policy Network, MC
@@ -41,7 +41,7 @@
   * [CartPole](https://gym.openai.com/envs/CartPole-v0/)
     * Network on default state representation
     * CNN value network on raw pixels
-### [GAN.ipynb](https://github.com/hoihui/tutorial/blob/master/GAN.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/GAN.ipynb)
+### [GAN.ipynb](https://github.com/hoihui/tutorial/blob/master/GAN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/GAN.ipynb)
   * MNIST, MLP
     * Load Data
     * Model
@@ -56,7 +56,7 @@
     * Model
     * Train
     * Evaluate
-### [ImageTranslation.ipynb](https://github.com/hoihui/tutorial/blob/master/ImageTranslation.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/ImageTranslation.ipynb)
+### [ImageTranslation.ipynb](https://github.com/hoihui/tutorial/blob/master/ImageTranslation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/ImageTranslation.ipynb)
   * Pix2Pix on building facades w/ tensorflow
     * Data
     * Model
@@ -66,7 +66,7 @@
     * Model
     * Train
     * Evaluate
-### [MCTS.ipynb](https://github.com/hoihui/tutorial/blob/master/MCTS.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/MCTS.ipynb)
+### [MCTS.ipynb](https://github.com/hoihui/tutorial/blob/master/MCTS.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/MCTS.ipynb)
   * Barebone MCTS with UCT
     * Code: [mcts.ai](http://mcts.ai/code/python.html) modified + reuse nodes
     * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
@@ -76,11 +76,11 @@
     * Code
     * [Connect4](https://github.com/plkmo/AlphaZero_Connect4)
     * [Othello](https://github.com/suragnair/alpha-zero-general)
-### [MLP.ipynb](https://github.com/hoihui/tutorial/blob/master/MLP.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/MLP.ipynb)
+### [MLP.ipynb](https://github.com/hoihui/tutorial/blob/master/MLP.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/MLP.ipynb)
   * MNIST
     * Torch
     * Keras
-### [NLP.ipynb](https://github.com/hoihui/tutorial/blob/master/NLP.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/NLP.ipynb)
+### [NLP.ipynb](https://github.com/hoihui/tutorial/blob/master/NLP.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/NLP.ipynb)
   * Logistic Regression on imdb for sentiment
     * BOW - 1-gram
     * 2-gram?
@@ -96,7 +96,7 @@
     * Evaluation
   * Classification by CNN
   * Language modelling by MLP
-### [Reinforcement.ipynb](https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/Reinforcement.ipynb)
+### [Reinforcement.ipynb](https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/Reinforcement.ipynb)
   * David Silver's Lectures
     * [Lecture 1](https://www.youtube.com/watch?v=2pWv7GOvuf0) [Intro](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
     * [Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ) [Markov Decision Processes](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf)
@@ -113,7 +113,7 @@
     * [Cart-Pole by Monte Carlo Q-table](https://gist.githubusercontent.com/karpathy/868459dad1883098fe55806e69f40c91/raw/af6730c668cc8674765e1bef0bc45aa9c598d954/gistfile1.py)
     * Policy Evaluation (Lecture 1.3-1.4)
     * Policy Gradient on CartPole (Lecture 1.7)
-### [SequenceToNumbers.ipynb](https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb)
+### [SequenceToNumbers.ipynb](https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb)
   * Sine Curve
     * Torch
   * char-rnn
@@ -131,7 +131,7 @@
   * [HRNN](https://github.com/fchollet/keras/blob/master/examples/mnist_hierarchical_rnn.py)
     * Data
     * Model
-### [SequenceToSequence.ipynb](https://github.com/hoihui/tutorial/blob/master/SequenceToSequence.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/SequenceToSequence.ipynb)
+### [SequenceToSequence.ipynb](https://github.com/hoihui/tutorial/blob/master/SequenceToSequence.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/SequenceToSequence.ipynb)
   * Self-generated data w/ Keras
     * Data Generator
     * Models
@@ -140,7 +140,7 @@
     * Data
     * Train
     * Evaluate
-### [StyleTransfer.ipynb](https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/StyleTransfer.ipynb)
+### [StyleTransfer.ipynb](https://github.com/hoihui/tutorial/blob/master/StyleTransfer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/StyleTransfer.ipynb)
   * Deep Dreaming w/ Torch
     * Load Images and VGG19
   * Deep Dreaming w/ Tensorflow
@@ -156,7 +156,7 @@
     * Basic training
     * Total variation loss
 ## Packages
-### [cython.ipynb](https://github.com/hoihui/tutorial/blob/master/cython.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/cython.ipynb)
+### [cython.ipynb](https://github.com/hoihui/tutorial/blob/master/cython.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/cython.ipynb)
   * Compilation
   * using C/C++ libraries
   * Using [Numpy](http://cython.readthedocs.io/en/latest/src/userguide/numpy_tutorial.html)
@@ -164,8 +164,8 @@
   * `cdef` local variables
   * `cython` function that works even if `gcc` compilation fails
   * Pairwise Distances (numpy list)
-### [datatable.ipynb](https://github.com/hoihui/tutorial/blob/master/datatable.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/datatable.ipynb)
-### [gensim.ipynb](https://github.com/hoihui/tutorial/blob/master/gensim.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/gensim.ipynb)
+### [datatable.ipynb](https://github.com/hoihui/tutorial/blob/master/datatable.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/datatable.ipynb)
+### [gensim.ipynb](https://github.com/hoihui/tutorial/blob/master/gensim.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/gensim.ipynb)
   * Preprocess
     * Tokenize
     * Vectorize Corpora
@@ -184,12 +184,12 @@
   * Topic Modelling
     * Internal LDA
     * umass Mallet
-### [gym.ipynb](https://github.com/hoihui/tutorial/blob/master/gym.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/gym.ipynb)
+### [gym.ipynb](https://github.com/hoihui/tutorial/blob/master/gym.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/gym.ipynb)
   * Basics
     * [Environment](http://gym.openai.com/envs/)-specific
   * Wrapper
   * Custom environment
-### [nltk.ipynb](https://github.com/hoihui/tutorial/blob/master/nltk.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/nltk.ipynb)
+### [nltk.ipynb](https://github.com/hoihui/tutorial/blob/master/nltk.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/nltk.ipynb)
   * Corpora
     * Samples
     * Special Corpora ("Lexical Resources")
@@ -214,12 +214,12 @@
     * Probabilistic Graphical Model
   * Sentiment
     * VADER
-### [othernlp.ipynb](https://github.com/hoihui/tutorial/blob/master/othernlp.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/othernlp.ipynb)
+### [othernlp.ipynb](https://github.com/hoihui/tutorial/blob/master/othernlp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/othernlp.ipynb)
   * Stanford NLP
   * TextBlob for sentiment
   * Spacy for preprocessing
   * scikit-learn
-### [pytorch.ipynb](https://github.com/hoihui/tutorial/blob/master/pytorch.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/pytorch.ipynb)
+### [pytorch.ipynb](https://github.com/hoihui/tutorial/blob/master/pytorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/pytorch.ipynb)
   * Tensors
     * Numbers
     * Linear Alegra
@@ -243,7 +243,7 @@
   * Inference
   * Save / Load
     * Pretrained Models
-### [tensorflow_keras.ipynb](https://github.com/hoihui/tutorial/blob/master/tensorflow_keras.ipynb) [![Open In Colab](https://pytorch.org/tutorials/_static/images/pytorch-colab.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/tensorflow_keras.ipynb)
+### [tensorflow_keras.ipynb](https://github.com/hoihui/tutorial/blob/master/tensorflow_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/tensorflow_keras.ipynb)
   * Tensors
     * Numbers
     * Linear Alegra
