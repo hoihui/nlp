@@ -68,12 +68,13 @@
     * Evaluate
 ### [MCTS.ipynb](https://github.com/hoihui/tutorial/blob/master/MCTS.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/MCTS.ipynb)
   * Barebone MCTS with UCT
-    * Code: [mcts.ai](http://mcts.ai/code/python.html) modified + reuse nodes
+    * Code: [mcts.ai](http://mcts.ai/code/python.html) recursive + node reuse + pruning
     * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
     * Connect4
     * Othello
   * AlphaZero-style (guide tree search by policy+value network)
-    * Code
+    * [Code](http://web.stanford.edu/~surag/posts/alphazero.html) (modified)
+    * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
     * [Connect4](https://github.com/plkmo/AlphaZero_Connect4)
     * [Othello](https://github.com/suragnair/alpha-zero-general)
 ### [MLP.ipynb](https://github.com/hoihui/tutorial/blob/master/MLP.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/MLP.ipynb)
