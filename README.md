@@ -72,6 +72,10 @@
     * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
     * Connect4
     * Othello
+  * MCTS written in Cython
+    * mcts library
+    * m,n,k-game
+    * Othello
   * AlphaZero-style (guide tree search by policy+value network)
     * [Code](http://web.stanford.edu/~surag/posts/alphazero.html) (modified)
     * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
@@ -158,13 +162,19 @@
     * Total variation loss
 ## Packages
 ### [cython.ipynb](https://github.com/hoihui/tutorial/blob/master/cython.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/cython.ipynb)
-  * Compilation
+  * pyx compilation
+    * `pxd` header file
+    * [in notebook](https://cython.readthedocs.io/en/latest/src/userguide/source_files_and_compilation.html#compiling-with-a-jupyter-notebook)
+    * `cython` function that works even if `gcc` compilation fails
   * using C/C++ libraries
+    * [Using std C functions](https://cython.readthedocs.io/en/latest/src/tutorial/external.html)
+    * STL
+    * [Using self-defined C classes (externs)](https://cython.readthedocs.io/en/latest/src/userguide/wrapping_CPlusPlus.html)
+    * [define class in cython](https://cython.readthedocs.io/en/latest/src/tutorial/cdef_classes.html)
+  * Examples
+  * openmp
   * Using [Numpy](http://cython.readthedocs.io/en/latest/src/userguide/numpy_tutorial.html)
-  * Timing
-  * `cdef` local variables
-  * `cython` function that works even if `gcc` compilation fails
-  * Pairwise Distances (numpy list)
+    * Pairwise Distances (numpy list)
 ### [datatable.ipynb](https://github.com/hoihui/tutorial/blob/master/datatable.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/datatable.ipynb)
 ### [gensim.ipynb](https://github.com/hoihui/tutorial/blob/master/gensim.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/gensim.ipynb)
   * Preprocess
