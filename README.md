@@ -72,6 +72,7 @@
     * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
     * Connect4
     * Othello
+  * Multiprocessing
   * MCTS written in Cython
     * mcts library
     * m,n,k-game
