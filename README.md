@@ -74,12 +74,13 @@
     * Othello
   * MCTS with Multiprocessing
   * MCTS written in Cython
-    * mcts library
+    * mcts module
     * m,n,k-game
     * Othello
-  * MCTS in Cython with multiprocessing?
-    * mcts library
+  * MCTS in Cython with multiprocessing
+    * mcts module
     * m,n,k-game
+    * Othello
   * AlphaZero-style (guide tree search by policy+value network)
     * [Code](http://web.stanford.edu/~surag/posts/alphazero.html) (modified)
     * [m,n,k-game](https://en.wikipedia.org/wiki/M,n,k-game)
