@@ -259,6 +259,7 @@
   * Inference
   * Save / Load
     * Pretrained Models
+### [stable-baseline.ipynb](https://github.com/hoihui/tutorial/blob/master/stable-baseline.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/stable-baseline.ipynb)
 ### [tensorflow_keras.ipynb](https://github.com/hoihui/tutorial/blob/master/tensorflow_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/tensorflow_keras.ipynb)
   * Tensors
     * Numbers
