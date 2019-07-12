@@ -266,8 +266,10 @@
     * [Atari Game interface](https://stable-baselines.readthedocs.io/en/master/guide/examples.html#id1)
     * Normalize input (env wrapper)
     * [Custom "policy" network](https://stable-baselines.readthedocs.io/en/master/guide/custom_policy.html)
-  * [Proximal Policy Optimization](https://stable-baselines.readthedocs.io/en/master/modules/ppo2.html)
-  * [Deep Q Network](https://stable-baselines.readthedocs.io/en/master/modules/dqn.html)
+  * Examples
+    * [Proximal Policy Optimization](https://stable-baselines.readthedocs.io/en/master/modules/ppo2.html)
+    * [Deep Q Network](https://stable-baselines.readthedocs.io/en/master/modules/dqn.html)
+    * Recurrent policies
 ### [tensorflow_keras.ipynb](https://github.com/hoihui/tutorial/blob/master/tensorflow_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/tensorflow_keras.ipynb)
   * Tensors
     * Numbers
