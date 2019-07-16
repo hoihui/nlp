@@ -31,9 +31,10 @@
     * Evaluate
 ### [DeepRL.ipynb](https://github.com/hoihui/tutorial/blob/master/DeepRL.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/DeepRL.ipynb)
   * Implementations
-    * Deep Value Network, Q learning
+    * DQN -- deep network for action-value function (Q) with off-policy learning
+    * DRQN -- deep recurrent Q network
     * Deep Policy Network, MC
-    * Deep policy+value (Actor-Critic) networks
+    * A2C = Deep policy+value (Actor-Critic) networks
   * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093) using raw pixels
     * Setup Environment
     * Various Models
