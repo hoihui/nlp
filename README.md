@@ -127,6 +127,7 @@
 ### [SequenceToNumbers.ipynb](https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb)
   * Sine Curve
     * Torch
+    * Keras
   * char-rnn
     * Torch
     * Keras
