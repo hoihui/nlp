@@ -8,7 +8,9 @@
     * Linear Autoencoder
     * Convolutional Autoencoder
     * Denoising Convolutional Autoencoder
-  * MNIST Conv VAE w/ tensorflow
+  * MNIST w/ tensorflow/keras
+    * Models
+    * Train
 ### [CNN.ipynb](https://github.com/hoihui/tutorial/blob/master/CNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/CNN.ipynb)
   * MNIST
     * Torch
