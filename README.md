@@ -37,6 +37,7 @@
     * DRQN -- deep recurrent Q network
     * Deep Policy Network, MC
     * A2C = Deep policy+value (Actor-Critic) networks
+    * A3C = Asynchronous A2C
   * [Catch](https://gist.github.com/EderSantana/c7222daa328f0e885093) using raw pixels
     * Setup Environment
     * Various Models
