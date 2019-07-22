@@ -60,6 +60,7 @@
     * Model
     * Train
     * Evaluate
+### [GARCH.ipynb](https://github.com/hoihui/tutorial/blob/master/GARCH.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/GARCH.ipynb)
 ### [ImageTranslation.ipynb](https://github.com/hoihui/tutorial/blob/master/ImageTranslation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/ImageTranslation.ipynb)
   * Pix2Pix on building facades w/ tensorflow
     * Data
@@ -210,6 +211,13 @@
     * [Environment](http://gym.openai.com/envs/)-specific
   * Wrapper
   * Custom environment
+### [matplotlib.ipynb](https://github.com/hoihui/tutorial/blob/master/matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/matplotlib.ipynb)
+  * (x,y,error)
+  * Bars
+  * Contour/Density Plots
+  * Layout
+  * 3D surface
+  * Primitives / Colormaps
 ### [nltk.ipynb](https://github.com/hoihui/tutorial/blob/master/nltk.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/nltk.ipynb)
   * Corpora
     * Samples
