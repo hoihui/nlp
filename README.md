@@ -313,5 +313,8 @@
   * Save / load
     * Pretrained models from Built-in
     * Pretrained models from TFHub
-  * Custom Evaluation
+  * Custom Evaluation ?
   * sklearn-style interface ?
+  * javascripts
+    * ml5.js
+    * tensorflow.js
