@@ -171,6 +171,7 @@
     * Extract style/content
     * Basic training
     * Total variation loss
+### [Untitled.ipynb](https://github.com/hoihui/tutorial/blob/master/Untitled.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/Untitled.ipynb)
 ## Packages
 ### [cython.ipynb](https://github.com/hoihui/tutorial/blob/master/cython.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/cython.ipynb)
   * pyx compilation
