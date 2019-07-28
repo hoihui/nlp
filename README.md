@@ -174,6 +174,7 @@
 ## Packages
 ### [big_pandas.ipynb](https://github.com/hoihui/tutorial/blob/master/big_pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/big_pandas.ipynb)
   * sql
+    * merge
   * dask
   * datatable
 ### [cython.ipynb](https://github.com/hoihui/tutorial/blob/master/cython.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/cython.ipynb)
@@ -279,7 +280,6 @@
   * [sqlite3](https://www.sqlite.org/docs.html)
   * MySQL
   * MongoDB
-  * sqlalchemy
 ### [stable-baseline.ipynb](https://github.com/hoihui/tutorial/blob/master/stable-baseline.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/stable-baseline.ipynb)
   * Common interface
     * multiprocessing
