@@ -129,12 +129,14 @@
     * Policy Evaluation (Lecture 1.3-1.4)
     * Policy Gradient on CartPole (Lecture 1.7)
 ### [SequenceToNumbers.ipynb](https://github.com/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb) [![Viewer](https://camo.githubusercontent.com/3787960e353ddddb30bea9eca931318ff704d6fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656e6465722d6e627669657765722d6f72616e67652e737667)](https://nbviewer.jupyter.org/github/hoihui/tutorial/blob/master/SequenceToNumbers.ipynb)
-  * Sine Curve
+  * Sine Curve (predict next datapoint)
     * Torch
     * Keras
   * char-rnn
     * Torch
     * Keras
+  * Mathematical Expressions
+    * Addition only
   * IMDB Sentiment w/ torch
     * Data
     * Model
@@ -179,6 +181,7 @@
 ## Packages
 ### [big_pandas.ipynb](https://github.com/hoihui/tutorial/blob/master/big_pandas.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/big_pandas.ipynb) [![Viewer](https://camo.githubusercontent.com/3787960e353ddddb30bea9eca931318ff704d6fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656e6465722d6e627669657765722d6f72616e67652e737667)](https://nbviewer.jupyter.org/github/hoihui/tutorial/blob/master/big_pandas.ipynb)
   * sql
+    * create db
     * merge
   * dask
   * datatable
