@@ -136,7 +136,9 @@
     * Torch
     * Keras
   * Mathematical Expressions
-    * Addition only
+    * Generate Data
+    * Models
+    * Train and Evaluate
   * IMDB Sentiment w/ torch
     * Data
     * Model
@@ -152,6 +154,10 @@
 ### [SequenceToSequence.ipynb](https://github.com/hoihui/tutorial/blob/master/SequenceToSequence.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/SequenceToSequence.ipynb) [![Viewer](https://camo.githubusercontent.com/3787960e353ddddb30bea9eca931318ff704d6fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656e6465722d6e627669657765722d6f72616e67652e737667)](https://nbviewer.jupyter.org/github/hoihui/tutorial/blob/master/SequenceToSequence.ipynb)
   * Simple numeric sequences
     * Data Generator
+    * Models
+    * Train and Evaluate
+  * Mathematical Expressions
+    * Generate Data
     * Models
     * Train and Evaluate
   * Language translation
