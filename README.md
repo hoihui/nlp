@@ -111,6 +111,8 @@
     * Evaluation
   * Classification by CNN
   * Language modelling by MLP
+### [Quantum.ipynb](https://github.com/hoihui/tutorial/blob/master/Quantum.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/Quantum.ipynb) [![Viewer](https://camo.githubusercontent.com/3787960e353ddddb30bea9eca931318ff704d6fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656e6465722d6e627669657765722d6f72616e67652e737667)](https://nbviewer.jupyter.org/github/hoihui/tutorial/blob/master/Quantum.ipynb)
+  * Qiskit
 ### [Reinforcement.ipynb](https://github.com/hoihui/tutorial/blob/master/Reinforcement.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hoihui/tutorial/blob/master/Reinforcement.ipynb) [![Viewer](https://camo.githubusercontent.com/3787960e353ddddb30bea9eca931318ff704d6fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656e6465722d6e627669657765722d6f72616e67652e737667)](https://nbviewer.jupyter.org/github/hoihui/tutorial/blob/master/Reinforcement.ipynb)
   * David Silver's Lectures
     * [Lecture 1](https://www.youtube.com/watch?v=2pWv7GOvuf0) [Intro](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/intro_RL.pdf)
